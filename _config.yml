@@ -1,0 +1,5 @@
+title: "GuzH's Blogs"
+remote_theme: just-the-docs/just-the-docs
+search_enabled: false
+color_scheme: "dark"
+exclude: ["README.md"]
